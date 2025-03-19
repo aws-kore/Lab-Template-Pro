@@ -1,8 +1,6 @@
 CloudFormation Template: Automating AWS Infrastructure Deployment
 
-![image](https://github.com/user-attachments/assets/e020c6e8-e4e4-480e-a515-a0f6549863c5) ![image](https://github.com/user-attachments/assets/3f43fec5-b8d5-4414-bf0a-4ac37f2a87ad)
-
-![image](https://github.com/user-attachments/assets/c7161ee1-70b4-4de8-8647-9531ecdc5186)  ![image](https://github.com/user-attachments/assets/a2062901-75a4-481e-b613-bf11928d7b71) ![image](https://github.com/user-attachments/assets/b00e8e26-22ff-4744-832b-2ea3d401a85a)
+![image](https://github.com/user-attachments/assets/e020c6e8-e4e4-480e-a515-a0f6549863c5) ![image](https://github.com/user-attachments/assets/3f43fec5-b8d5-4414-bf0a-4ac37f2a87ad) ![image](https://github.com/user-attachments/assets/c7161ee1-70b4-4de8-8647-9531ecdc5186)  ![image](https://github.com/user-attachments/assets/a2062901-75a4-481e-b613-bf11928d7b71) ![image](https://github.com/user-attachments/assets/b00e8e26-22ff-4744-832b-2ea3d401a85a)
 
 Our project revolves around the deployment of a basic AWS infrastructure using a CloudFormation template. This template automates the creation of essential AWS resources, including an S3 bucket, an EC2 instance, a VPC, a public subnet, and an internet gateway. By using CloudFormation, we ensure that the entire environment is created consistently and without error. Once deployed via the AWS Management Console and through the stack, we confirm that all resources, such as the VPC, S3 bucket, EC2 instance, and others, are set up as expected, ensuring smooth project implementation and verification.
 
